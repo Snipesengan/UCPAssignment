@@ -1,0 +1,3 @@
+dictfile = Why are my meatballs so spicy
+maxdifference = 3
+autocorrect = no
